@@ -64,6 +64,10 @@ nav a.active{
     border-bottom: 3px solid #b74b4b;
 }
 
+.para1{
+    margin-top: 40px;
+}
+
 @media(max-width:995px){
     nav,header{
         position: absolute;
@@ -353,7 +357,7 @@ h2 {
     background-color: #1e1e1e;
     padding: 25px;
     border-radius: 12px;
-    width: 50%;
+    width: 80%;
     max-width: 500px;
     margin: auto;
     box-shadow: 0 6px 12px rgba(255, 255, 255, 0.1);
